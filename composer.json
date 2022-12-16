@@ -1,5 +1,5 @@
 {
-    "name": "kphp_validator",
+    "name": "kphp-validator",
     "type": "library",
     "description": "KPHP Validator",
     "license": "MIT",
