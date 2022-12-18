@@ -9,9 +9,8 @@
             "email": "ispetrovanov@edu.hse.ru"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "php": ">=8.0"
+        "php": ">=7.0"
     },
     "autoload": {
         "psr-4": {
