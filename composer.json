@@ -9,6 +9,12 @@
             "email": "ispetrovanov@edu.hse.ru"
         }
     ],
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "github.com/azlymoon/KPHP-Validator"
+      }
+    ],
     "require": {
         "php": ">=7.0"
     },
