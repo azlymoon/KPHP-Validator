@@ -1,6 +1,6 @@
 <?php
 
-namespace Validation;
+namespace validator;
 
 class Type extends Constraint
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Validation;
+namespace validator;
 
 abstract class Constraint
 {

@@ -26,7 +26,7 @@ git clone https://github.com/VKCOM/kphp
 2. [Download KPHP Validator library](https://git.miem.hse.ru/1367/kphp_validator)
 
 ```
-git clone https://git.miem.hse.ru/1367/kphp_validator
+composer require azly/kphp_validator:dev-master
 ```
 
 3. [Compile KPHP from source files](https://vkcom.github.io/kphp/kphp-internals/developing-and-extending-kphp/compiling-kphp-from-sources.html)
@@ -39,7 +39,6 @@ git clone https://git.miem.hse.ru/1367/kphp_validator
 
 ```php
 <?php
-namespace Validation;
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Create a list with constraints
